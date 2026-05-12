@@ -5,7 +5,7 @@ Este projeto é um gerador de QR Codes profissional e altamente customizável, i
 
 Desenvolvido para oferecer uma experiência de **Rapid Prototyping (Vibecoding)**, o sistema utiliza um motor de renderização robusto em conjunto com uma interface baseada em Shadcn/UI, permitindo a criação de códigos escaneáveis com gradientes complexos e estilização de cantos em tempo real.
 
-![Dashboard Principal](https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/assets/logo.png)
+![Dashboard Principal](./imagem/imagem1.png)
 *Figura 1: Interface principal do sistema exibindo a customização dinâmica e preview real-time.*
 
 ## 🚀 Tecnologias Utilizadas
