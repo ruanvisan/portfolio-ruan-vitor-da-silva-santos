@@ -52,7 +52,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
     npm run dev
     ```
 
-![Data Pipeline](imagem3.png)
+![Data Pipeline](./imagem/imagem3.png)
 *Figura 3: Fluxo de dados entre o Client, Firestore e Remote Config.*
 
 ---
