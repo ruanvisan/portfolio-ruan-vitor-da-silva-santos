@@ -54,6 +54,7 @@ O modelo foi treinado com as seguintes categorias:
 
 | Classe | Descrição |
 |---|---|
+(./img.png)
 | Operacional | Imagens relacionadas ao ambiente operacional |
 | Liderança | Imagens relacionadas a liderança e gestão |
 
@@ -77,7 +78,7 @@ O modelo foi treinado com as seguintes categorias:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/laboratorio-classificacao-visual.git
+git clone https://github.com/ruanvisan/portfolio-ruan-vitor-da-silva-santos/tree/main/projeto-laboratorio-de-classificacao-visual.git
 ```
 
 ### 2. Abra o projeto
