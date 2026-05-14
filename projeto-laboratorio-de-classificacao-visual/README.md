@@ -54,7 +54,7 @@ O modelo foi treinado com as seguintes categorias:
 
 | Classe | Descrição |
 |---|---|
-(./img.png)
+![Imagem do projeto](./img.png)
 | Operacional | Imagens relacionadas ao ambiente operacional |
 | Liderança | Imagens relacionadas a liderança e gestão |
 
