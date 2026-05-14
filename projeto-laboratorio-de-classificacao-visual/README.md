@@ -51,9 +51,9 @@ O objetivo é permitir testes rápidos de reconhecimento visual em aplicações 
 ## 🏷️ Classes do Modelo
 
 O modelo foi treinado com as seguintes categorias:
+![Imagem do projeto](./img.png)
 
 | Classe | Descrição |
-![Imagem do projeto](./img.png)
 |---|---|
 | Operacional | Imagens relacionadas ao ambiente operacional |
 | Liderança | Imagens relacionadas a liderança e gestão |
